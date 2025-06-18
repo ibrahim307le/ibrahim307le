@@ -1,5 +1,5 @@
-## Hi, I am Mohamed Ibrahim,
-<h3 align="center">ECE Student | Embedded Systems Developer | AI/ML Integrator | Tech Enthusiast</h3>
+## Hi, I am Mohamed Ibrahim
+<h3 align="center">ECE Student | Embedded Systems Developer | AI/ML Integrator | Prompt Engineer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahim307le&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,6 +14,7 @@
 🤖 Passionate about merging **Embedded Systems** with **AI and Machine Learning**  
 💻 I develop cross-platform systems that sense, process, and act — in real time  
 📡 Exploring IoT, real-time sensor fusion, embedded vision, edge AI, and hardware optimization  
+🧠 I also craft intelligent prompts for LLMs and build **AI-assisted embedded systems**  
 🌐 Currently working on:  
 &nbsp;&nbsp;&nbsp;&nbsp;• A **thermal tracker system using STM32 + AMG8833 + USB CDC**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Embedded **AI object detection on Jetson Nano**  
@@ -36,6 +37,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt Engineering-7E57C2?style=flat&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -60,7 +62,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:ibrahim307le@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mohamedibrahim20207191@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ibrahim307le"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
@@ -75,18 +77,3 @@
 ---
 
 > 🔧 *Always building, always learning — one byte at a time.*
-
-<!--
-**ibrahim307le/ibrahim307le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
