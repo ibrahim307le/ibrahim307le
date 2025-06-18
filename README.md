@@ -34,13 +34,13 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/espressif_logo_icon_168470.png" alt="ESP32" width="40" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png" alt="NVIDIA" width="60" style="margin-right:10px;" />
+  <img src="https://images.seeklogo.com/logo-png/44/2/nvidia-logo-png_seeklogo-443363.png" alt="NVIDIA" width="50" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow / AI" width="40" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI / Prompt Engineering" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" style="margin-right:10px;" />
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40"/>
 </p>
