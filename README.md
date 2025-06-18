@@ -31,10 +31,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right: 10px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Embedded-C.svg" alt="Embedded C" width="40" style="margin-right:10px;" />
   <img src="https://logotyp.us/file/stmicroelectronics.svg" alt="STM32" width="50" style="margin-right:10px;" />
-  <img src="https://seeklogo.com/images/E/espressif-logo-035BB2B825-seeklogo.com.svg" alt="ESP32" width="50" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" style="margin-right: 10px;" />
-  <img src="https://images.seeklogo.com/logo-png/44/2/nvidia-logo-png_seeklogo-443363.png" alt="NVIDIA" width="50" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow / AI" width="40" style="margin-right: 10px;" />
