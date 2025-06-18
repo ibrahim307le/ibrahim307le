@@ -26,19 +26,19 @@
 ### ⚙️ Technologies & Platforms
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded C-6600cc?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32/8266-2C3E50?style=flat&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt Engineering-7E57C2?style=flat&logo=openai&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/external-outline-berkahicon/64/6600cc/external-Embedded-C-programming-language-outline-berkahicon.png" alt="Embedded C" width="40" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/STM32_Logo.png" alt="STM32" width="40" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/2C3E50/esp32.png" alt="ESP32" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nvidia_logo.svg/2048px-Nvidia_logo.svg.png" alt="Jetson Nano" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="AI/ML" width="40" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="Prompt Engineering / OpenAI" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"/>
