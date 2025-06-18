@@ -29,16 +29,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/external-outline-berkahicon/64/6600cc/external-Embedded-C-programming-language-outline-berkahicon.png" alt="Embedded C" width="40" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/STM32_Logo.png" alt="STM32" width="40" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/ios-filled/50/2C3E50/esp32.png" alt="ESP32" width="40" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/fluency/48/microchip.png" alt="Embedded C" width="40" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_STM32.svg" alt="STM32" width="40" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/ESP32_Logo.svg" alt="ESP32" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nvidia_logo.svg/2048px-Nvidia_logo.svg.png" alt="Jetson Nano" width="40" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" alt="Jetson Nano / NVIDIA" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="AI/ML" width="40" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="Prompt Engineering / OpenAI" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow / AI" width="40" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI / Prompt Engineering" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"/>
