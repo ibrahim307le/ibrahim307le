@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-microchip-computer-science-flaticons-lineal-color-flat-icons.png" alt="Embedded C" width="40" style="margin-right:10px;" />
+  <img src="https://icon.icepanel.io/Technology/svg/Embedded-C.svg" alt="Embedded C" width="40" style="margin-right:10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_STM32.svg" alt="STM32" width="40" style="margin-right: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/ESP32_Logo.svg" alt="ESP32" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" style="margin-right: 10px;" />
