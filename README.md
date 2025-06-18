@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right: 10px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Embedded-C.svg" alt="Embedded C" width="40" style="margin-right:10px;" />
   <img src="https://logotyp.us/file/stmicroelectronics.svg" alt="STM32" width="50" style="margin-right:10px;" />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/espressif_logo_icon_168470.png" alt="ESP32" width="40" style="margin-right:10px;" />
+  <img src="https://seeklogo.com/images/E/espressif-logo-035BB2B825-seeklogo.com.svg" alt="ESP32" width="50" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" style="margin-right: 10px;" />
   <img src="https://images.seeklogo.com/logo-png/44/2/nvidia-logo-png_seeklogo-443363.png" alt="NVIDIA" width="50" style="margin-right:10px;" />
