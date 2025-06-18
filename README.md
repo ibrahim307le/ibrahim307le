@@ -17,7 +17,7 @@
 🌐 Currently working on:  
 &nbsp;&nbsp;&nbsp;&nbsp;• A **thermal tracker system using STM32 + AMG8833 + USB CDC**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Embedded **AI object detection on Jetson Nano**  
-📫 Reach me at: **ibrahim307le@gmail.com**
+📫 Reach me at: **mohamedibrahim20207191@gmail.com**
 
 ---
 
