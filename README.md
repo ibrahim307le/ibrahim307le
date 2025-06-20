@@ -59,7 +59,10 @@
 ### 📌 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim307le&layout=compact&theme=react" />
+  ## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim307le&layout=compact&theme=tokyonight)
+
 </p>
 
 ---
