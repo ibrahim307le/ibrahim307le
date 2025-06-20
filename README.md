@@ -60,9 +60,8 @@
 
 <p align="center">
   ## 📊 Most Used Languages
-## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim307le&layout=compact&theme=tokyonight&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim307le&layout=compact&theme=tokyonight)
 
 </p>
 
