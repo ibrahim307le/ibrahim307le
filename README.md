@@ -18,7 +18,7 @@
 🌐 Currently working on:  
 &nbsp;&nbsp;&nbsp;&nbsp;• A **thermal tracker system using STM32 + AMG8833 + USB CDC**  
 &nbsp;&nbsp;&nbsp;&nbsp;> A modern fashion eCommerce store built using React + TailwindCSS + Vite. Inspired by Japanese techwear and simple UI
-&nbsp;&nbsp;&nbsp;&nbsp;  • Embedded **AI object detection on Jetson Nano**  
+&nbsp;&nbsp;&nbsp;&nbsp;            • Embedded **AI object detection on Jetson Nano**  
 📫 Reach me at: **mohamedibrahim20207191@gmail.com**
 
 ---
