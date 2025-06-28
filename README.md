@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 🎓 I'm an Engineering student majoring in **Electronics and Communication Engineering**  
-🔩 I build smart systems with **Arduino, STM32, ESP32/8266, Raspberry Pi**, and **Jetson Nano**  
+🔩 I build smart systems with **Arduino, STM32, ESP32/8266, **Nvidia Jetson Nano**, and **Raspberry Pi**  
 🤖 Passionate about merging **Embedded Systems** with **AI and Machine Learning**  
 💻 I develop cross-platform systems that sense, process, and act — in real time  
 📡 Exploring IoT, real-time sensor fusion, embedded vision, edge AI, and hardware optimization  
