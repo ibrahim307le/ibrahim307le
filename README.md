@@ -10,15 +10,15 @@
 ### 🧠 About Me
 
 🎓 I'm an Engineering student majoring in **Electronics and Communication Engineering**  
-🔩 I build smart systems with **Arduino, STM32, ESP32/8266, **Nvidia Jetson Nano**, and **Raspberry Pi**  
+🔩 I build smart systems with **Arduino, STM32, ESP32/8266, Nvidia Jetson Nano, and Raspberry Pi**  
 🤖 Passionate about merging **Embedded Systems** with **AI and Machine Learning**  
 💻 I develop cross-platform systems that sense, process, and act — in real time  
 📡 Exploring IoT, real-time sensor fusion, embedded vision, edge AI, and hardware optimization  
 🧠 I also craft intelligent prompts for LLMs and build **AI-assisted embedded systems**  
 🌐 Currently working on:  
 &nbsp;&nbsp;&nbsp;&nbsp;• A **thermal tracker system using STM32 + AMG8833 + USB CDC**  
-&nbsp;&nbsp;&nbsp;&nbsp;> A modern fashion eCommerce store built using React + TailwindCSS + Vite. Inspired by Japanese techwear and simple UI
-&nbsp;&nbsp;&nbsp;&nbsp;            • Embedded **AI object detection on Jetson Nano**  
+&nbsp;&nbsp;&nbsp;&nbsp;> A **modern fashion eCommerce store built using React + TailwindCSS + Vite. Inspired by Japanese techwear and simple UI**
+&nbsp;&nbsp;&nbsp;&nbsp;            • **Embedded AI object detection on Jetson Nano**  
 📫 Reach me at: **mohamedibrahim20207191@gmail.com**
 
 ---
