@@ -50,7 +50,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 ### Platforms, IDE and others
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
-  <img src="" />
+  <img src="excel.svg" />
 </p>
 
 ### Operating Systems
