@@ -30,7 +30,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
   <img src="graphql.svg" />
   <img src="xgboost.svg" />
   <img src="opencv.svg" />
-  <img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzebm31b0hgls6vbamjuu.png" width=50% />
+  <img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzebm31b0hgls6vbamjuu.png" width=5% />
 </p>
 
 ### Python Libraries
