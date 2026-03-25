@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Ibrahim J</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ibrahim307le/ibrahim307le/main/banner.gif" width="100%" />
+  <img src="Gojo Satoru Jujutsu Kaisen GIF - Gojo Satoru Jujutsu Kaisen - Discover & Share GIFs.gif" width="100%" />
 </p>
 
 <p align="center">
@@ -31,15 +31,6 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
   <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
 </p>
 
-### AI Tools
-<p>
-  <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cohere-FF6600?style=for-the-badge" />
-</p>
-
 ### Python Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=pandas,flask" />
@@ -56,14 +47,22 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Platforms and IDE
+### Platforms, IDE and others
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
+  <img src= />
 </p>
 
 ### Operating Systems
 <p>
   <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+### AI Tools
+<p>
+  <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
