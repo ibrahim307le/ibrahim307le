@@ -35,9 +35,9 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 
 ### Python Libraries
 <p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" width=60% />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" width=5% />
   <img src="polar_chart.svg" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCC6bTQwespAOih0-rMoIdUavbe3qvCcWoQA&s" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCC6bTQwespAOih0-rMoIdUavbe3qvCcWoQA&s" width=5% />
 </p>
 
 ### Cloud
