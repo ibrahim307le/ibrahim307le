@@ -108,9 +108,8 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ibrahim307le/ibrahim307le/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ibrahim307le/ibrahim307le/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## Connect
