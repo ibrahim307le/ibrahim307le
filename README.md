@@ -98,7 +98,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim307le&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="download.jpg" />
 
 - **Smart India Hackathon 2025**  
   Top 6 nationwide for AI-based document overloading solution (KMRL).
