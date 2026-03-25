@@ -1,87 +1,110 @@
-## Hi, I am Mohamed Ibrahim
-<h3 align="center">ECE Student | Embedded Systems Developer | AI/ML Integrator | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Ibrahim J</h1>
+<h3 align="center">🚀 IT Support | Networking | Data & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahim307le&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ibrahim307le">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=IT+Support+Engineer;Networking+%7C+CCNA+Track;Data+Analytics+%7C+AI+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me
-
-🎓 I'm an Engineering student majoring in **Electronics and Communication Engineering**  
-🔩 I build smart systems with **Arduino, STM32, ESP32/8266, Nvidia Jetson Nano, and Raspberry Pi**  
-🤖 Passionate about merging **Embedded Systems** with **AI and Machine Learning**  
-💻 I develop cross-platform systems that sense, process, and act — in real time  
-📡 Exploring IoT, real-time sensor fusion, embedded vision, edge AI, and hardware optimization  
-🧠 I also craft intelligent prompts for LLMs and build **AI-assisted embedded systems**  
-🌐 Currently working on:  
-&nbsp;&nbsp;&nbsp;&nbsp;• A **thermal tracker system using STM32 + AMG8833 + USB CDC**  
-&nbsp;&nbsp;&nbsp;&nbsp;> A **modern fashion eCommerce store built using React + TailwindCSS + Vercel + MongoDB. Inspired by Japanese techwear and simple UI**
-&nbsp;&nbsp;&nbsp;&nbsp;            • **Embedded AI object detection on Jetson Nano**  
-📫 Reach me at: **mohamedibrahim20207191@gmail.com**
+## 🧠 About Me
+- 🎓 ECE Graduate (2026)
+- 💻 Interested in IT Support, Networking & Data Analytics  
+- ⚙️ Hands-on with OCR, Data Pipelines & Automation  
+- 🌱 Currently learning Cloud & Advanced Networking  
+- 🚀 Goal: Build scalable systems & grow into tech leadership  
 
 ---
 
-### ⚙️ Technologies & Platforms
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right: 10px;" />
-  <img src="https://icon.icepanel.io/Technology/svg/Embedded-C.svg" alt="Embedded C" width="40" style="margin-right:10px;" />
-  <img src="https://logotyp.us/file/stmicroelectronics.svg" alt="STM32" width="50" style="margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow / AI" width="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" style="margin-right:10px;" />
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40"/>
-</p>
+### 💻 Programming
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
-</p>
+### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-orange?style=for-the-badge)
+![KMeans](https://img.shields.io/badge/KMeans-green?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-darkgreen?style=for-the-badge)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+### 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
 
 ---
 
-### 📈 GitHub Stats
+## 🤖 AI Tools I Use
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-purple?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-blue?style=for-the-badge)
+![Perplexity](https://img.shields.io/badge/Perplexity-green?style=for-the-badge)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-black?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim307le&show_icons=true&theme=react&border_radius=10&hide=stars" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim307le&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim307le&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim307le&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📌 Top Languages
+## 🔥 Contribution Streak
 
 <p align="center">
-  ## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim307le&layout=compact&theme=tokyonight)
-
+  <img src="https://streak-stats.demolab.com?user=ibrahim307le&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🏆 Achievements
 
-<p align="left">
-  <a href="mailto:mohamedibrahim20207191@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ibrahim307le"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim307le&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🛡 Licensing & Contributions
+## 🐍 Contribution Snake
 
-📝 All projects under this profile are **original creations**.  
-⚠️ Usage and modifications of my repositories **require attribution and permission**.  
-📜 License: Contact me directly for collaboration, licensing, or publication.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ibrahim307le/ibrahim307le/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-> 🔧 *Always building, always learning — one byte at a time.*
+## 🚀 Featured Projects
+- 📄 OCR System using PaddleOCR  
+- 🚇 KMRL Document Analysis System  
+- 📊 Data Analytics Pipeline (Prefect, XGBoost, Prophet)  
+- 🌐 Multi-Device SSH Automation Tool  
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-ibrahim-j2025/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:mohamedibrahim20207191@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I build systems that combine **Networking + Data + AI** 🚀
