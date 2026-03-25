@@ -72,7 +72,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 ### AI Tools for Automation
 <p>
   <img src="https://img.icons8.com/androidL/512/FFFFFF/chatgpt.png" width=5% />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnM91o7r1wba01xcHW15PLqbe-ONaTIjOO3g&s" width=5% />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" width=5% />
   <img src="https://static.vecteezy.com/system/resources/previews/046/861/646/non_2x/gemini-icon-on-a-transparent-background-free-png.png" width=5%/>
 </p>
 
