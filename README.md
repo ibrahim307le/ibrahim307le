@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Ibrahim J</h1>
 
 <p align="center">
-  <img src="Gojo Satoru Jujutsu Kaisen GIF - Gojo Satoru Jujutsu Kaisen - Discover & Share GIFs.gif" width="100%" />
+  <img src="Gojo Satoru Jujutsu Kaisen GIF - Gojo Satoru Jujutsu Kaisen - Discover & Share GIFs.gif" width="60%" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## About Me
 
-Engineering graduate focused on IT support, networking, and data analytics. Experienced in OCR systems, automation workflows, and data-driven applications. Strong foundation in troubleshooting, backend logic, and system-level problem solving.
+Engineering graduate focused on IT support, networking, and data analytics. Experienced in OCR systems, automation workflows, and data-driven applications. Strong foundation in troubleshooting, backend logic, and system-level problem solving. Completed R&D Intern at Nokia.
 
 ---
 
@@ -26,15 +26,18 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 ### AI and Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=for-the-badge" />
+  <img src="emoji.svg" />
+  <img src="graphql.svg" />
   <img src="xgboost.svg" />
-  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
+  <img src="opencv.svg" />
+  <img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzebm31b0hgls6vbamjuu.png" width=50% />
 </p>
 
 ### Python Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,flask" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" width=60% />
+  <img src="polar_chart.svg" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCC6bTQwespAOih0-rMoIdUavbe3qvCcWoQA&s" />
 </p>
 
 ### Cloud
@@ -42,15 +45,23 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
+### Platforms, Tools, IDE and others
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
+  <img src="stm32cube.svg" />
+  <img src="gns3.svg" />
+  <img src="n8n.svg" />
+  <img src="wireshark.svg" />
+  <img src="git.svg" />
+  <img src="kicad.svg" />
+  <img src="excel.svg" />
+  <img src="word2.svg" />
+  <img src="m365.svg" />
+</p>
+
 ### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Platforms, IDE and others
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
-  <img src="excel.svg" />
 </p>
 
 ### Operating Systems
@@ -58,10 +69,10 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
-### AI Tools
+### AI Tools for Automation
 <p>
-  <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" />
+  <img src="openai.svg" />
+  <img src="claude.svg" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
@@ -88,6 +99,8 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ibrahim307le&theme=algolia&no-frame=true&row=1&column=6" />
+  Secured TOP 6 in SIH 2025 for KMRL Document Overloading Problem
+  Completed R&D Intern on developing OCR system project for Nokia
 </p>
 
 ---
