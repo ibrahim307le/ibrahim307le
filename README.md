@@ -27,7 +27,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch" />
   <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=for-the-badge" />
-  <img src="" />
+  <img src="xgboost.svg" />
   <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
 </p>
 
