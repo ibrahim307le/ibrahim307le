@@ -35,7 +35,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 
 ### Python Libraries
 <p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" width=5% />
+  <img src="https://images.seeklogo.com/logo-png/42/2/pandas-logo-png_seeklogo-425787.png" width=5% />
   <img src="polar_chart.svg" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCC6bTQwespAOih0-rMoIdUavbe3qvCcWoQA&s" width=5% />
 </p>
@@ -90,7 +90,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim307le&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="top-languages.svg" width="48%" />
 </p>
 
 ---
