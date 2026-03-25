@@ -27,7 +27,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch" />
   <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=for-the-badge" />
-  <img src="download (1).png" />
+  <img src="" />
   <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
 </p>
 
@@ -50,7 +50,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 ### Platforms, IDE and others
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
-  <img src="download (6).png" />
+  <img src="" />
 </p>
 
 ### Operating Systems
@@ -80,14 +80,6 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim307le&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim307le&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
