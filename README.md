@@ -99,8 +99,12 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ibrahim307le&theme=algolia&no-frame=true&row=1&column=6" />
-  < Secured TOP 6 in SIH 2025 for KMRL Document Overloading Problem/>
-  < Completed R&D Intern on developing OCR system project for Nokia/>
+
+- **Smart India Hackathon 2025**  
+  Top 6 nationwide for AI-based document overloading solution (KMRL).
+
+- **Nokia OCR Project**  
+  Developed OCR pipeline for pallet ID and chassis validation using PaddleOCR.
 </p>
 
 ---
