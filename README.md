@@ -1,44 +1,70 @@
 <h1 align="center">Mohamed Ibrahim J</h1>
 
 <p align="center">
-  <a href="https://github.com/ibrahim307le">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=IT+Support+%7C+Networking+%7C+Data+Analytics;Building+Scalable+Tech+Solutions;Exploring+AI+%26+Automation;ECE+Engineer+%7C+Problem+Solver" alt="Typing Animation"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/ibrahim307le/ibrahim307le/main/banner.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Networking+%7C+Data+Analytics;Building+Scalable+Systems;Exploring+AI+and+Automation;ECE+Engineer+%7C+Problem+Solver" />
 </p>
 
 ---
 
 ## About Me
 
-Engineering graduate focused on IT support, networking, and data analytics. Experienced in building OCR systems, automation pipelines, and data-driven applications. Strong foundation in system troubleshooting, backend logic, and scalable workflows.
+Engineering graduate focused on IT support, networking, and data analytics. Experienced in OCR systems, automation workflows, and data-driven applications. Strong foundation in troubleshooting, backend logic, and system-level problem solving.
 
 ---
 
 ## Tech Stack
 
 ### Programming
-- C, C++, Python (Basics)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
 
 ### AI and Machine Learning
-- PyTorch, DistilBERT, K-Means, XGBoost
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/K--Means-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
+</p>
 
 ### AI Tools
-- OpenAI GPT, Claude, Gemini, Perplexity AI, Cohere
+<p>
+  <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cohere-FF6600?style=for-the-badge" />
+</p>
 
 ### Python Libraries
-- Pandas, Matplotlib, Flask
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,flask" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+</p>
 
 ### Cloud
-- AWS (Basics)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
 ### Databases
-- MySQL, MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### Platforms and IDE
-- VS Code, GitHub, Arduino IDE
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
+</p>
 
 ### Operating Systems
-- Linux, Windows
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 
 ---
 
@@ -55,6 +81,14 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim307le&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim307le&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -79,9 +113,10 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-j2025/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:mohamedibrahim20207191@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
