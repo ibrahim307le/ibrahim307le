@@ -59,14 +59,6 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim307le&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## Achievements
 
 <p align="center">
