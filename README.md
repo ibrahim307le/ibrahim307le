@@ -27,7 +27,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch" />
   <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/K--Means-009688?style=for-the-badge" />
+  <img src="download (1).png" />
   <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
 </p>
 
@@ -50,7 +50,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 ### Platforms, IDE and others
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
-  <img src= />
+  <img src="download (6).png" />
 </p>
 
 ### Operating Systems
