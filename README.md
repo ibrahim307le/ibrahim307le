@@ -99,8 +99,8 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ibrahim307le&theme=algolia&no-frame=true&row=1&column=6" />
-  Secured TOP 6 in SIH 2025 for KMRL Document Overloading Problem
-  Completed R&D Intern on developing OCR system project for Nokia
+  < Secured TOP 6 in SIH 2025 for KMRL Document Overloading Problem/>
+  < Completed R&D Intern on developing OCR system project for Nokia/>
 </p>
 
 ---
@@ -110,6 +110,7 @@ Engineering graduate focused on IT support, networking, and data analytics. Expe
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibrahim307le/ibrahim307le/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 ---
 
 ## Connect
