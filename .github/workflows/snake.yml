@@ -21,6 +21,7 @@ jobs:
         with:
           github_user_name: ibrahim307le
           outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
 
       - name: Push snake to output branch
