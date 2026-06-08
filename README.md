@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Networking+%7C+Data+Analytics;Building+Scalable+Systems;Exploring+AI+and+Automation;ECE+Engineer+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Networking+%7C+Cloud;Building+Scalable+Systems;Exploring+AI and ML;ECE+Engineer+%7C+Problem+Solver" />
 </p>
 
 ---
