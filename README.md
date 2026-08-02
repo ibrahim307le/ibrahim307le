@@ -12,7 +12,7 @@
 
 ## About Me
 
-Engineering graduate focused on IT support, networking, and data analytics. Experienced in OCR systems, automation workflows, and data-driven applications. Strong foundation in troubleshooting, backend logic, and system-level problem solving. R&D Intern at Nokia from NOV 2025 - JAN 2026.
+Engineering graduate focused on IT support, Agentic AI, and Cloud. Experienced in OCR systems, automation workflows, and data-driven applications. Strong foundation in troubleshooting, backend logic, and system-level problem solving. R&D Intern at Nokia from NOV 2025 - JAN 2026.
 
 ---
 
