@@ -54,9 +54,6 @@ Engineering graduate focused on IT support, Agentic AI, and Cloud. Experienced i
   <img src="wireshark.svg" />
   <img src="git.svg" />
   <img src="kicad.svg" />
-  <img src="excel.svg" />
-  <img src="word2.svg" />
-  <img src="m365.svg" />
 </p>
 
 ### Databases
