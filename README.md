@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Networking+%7C+Cloud;Building+Scalable+Systems;Exploring+AI and ML;ECE+Engineer+%7C+Problem+Solver" />
+  <img src="2024-Formula1-Mercedes-AMG-W15-F1-E-Performance-006-2160.jpg" />
 </p>
 
 ---
