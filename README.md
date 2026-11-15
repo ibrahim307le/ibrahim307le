@@ -4,10 +4,6 @@
   <img src="Gojo Satoru Jujutsu Kaisen GIF - Gojo Satoru Jujutsu Kaisen - Discover & Share GIFs.gif" width="60%" />
 </p>
 
-<p align="center">
-  <img src="2024-Formula1-Mercedes-AMG-W15-F1-E-Performance-006-2160.jpg" />
-</p>
-
 ---
 
 ## About Me
